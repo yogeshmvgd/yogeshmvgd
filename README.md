@@ -72,8 +72,15 @@ Real-time stock monitoring application with automated SMS notifications using Tw
 - Scalable AI Systems
 
 ---
+## Engineering Interests
 
+- AI Platform Engineering
+- Document Intelligence
+- Retrieval-Augmented Generation
+- Production AI Systems
+- Backend Engineering
+  
 ## 📫 Connect With Me
 
-- LinkedIn: *(Add your LinkedIn URL)*
+- LinkedIn: https://www.linkedin.com/in/yogeshmv/
 - Email: yogesh.mvdev@gmail.com
